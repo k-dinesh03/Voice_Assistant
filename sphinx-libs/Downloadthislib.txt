@@ -1,0 +1,3 @@
+Download a jar file for the sphinx library
+link : https://jar-download.com/?search_box=sphinx4-data+jar
+version : 5prealpha
