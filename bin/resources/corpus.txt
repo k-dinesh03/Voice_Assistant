@@ -1,0 +1,12 @@
+Open Chrome
+Close Chrome
+Open Notepad
+Close Notepad
+Open CMD
+Close CMD
+Open Excel
+Close Excel
+Open Word
+Close Word
+Open Power Point
+Close Power Point
